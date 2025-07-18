@@ -1,0 +1,14 @@
+{
+	"name": "Night DEV",
+	"id": "colesallaboutme.carrd.co.dev",
+	"description": "",
+	"version":"0.1",
+	"author": "Night",
+	"homepage": "",
+	"dependencies": "",
+	"source": "Documents/dotfiles-custom",
+	"subfolder": "dotfiles",
+	"setupscript":"setup.sh",
+	"restore":[],
+	"settings":[]
+}
